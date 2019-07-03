@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PokeApi</string>
+    <string name="title_activity_poke">PokeActivity</string>
+    <string name="default_font_path">fonts/Cabin.ttf</string>
+    <string name="consultando_el_pokedex">Consultando el pokedex</string>
+    <string name="habilidades">Habilidades</string>
+    <string name="movimientos">Movimientos</string>
+    <string name="estadisticas">Estadísticas</string>
+</resources>
